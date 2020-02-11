@@ -3,4 +3,4 @@
 This is my first post
 ### 1.1.1
 
-![Me](images/brain-chip.png)
+![Me](https://github.com/dillo99/dillo99.github.io/blob/master/images/brain-chip.png)
